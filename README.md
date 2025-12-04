@@ -44,7 +44,7 @@
 
 ### Шаг 1: Клонирование репозитория
 ```bash
-git clone https://github.com/ваш-логин/pedagogy-parser.git
+git clone https://github.com/mila6060/pedagogy-parser.git
 cd pedagogy-parser
 ##Шаг 2: 🔧 Установка зависимостей
 
